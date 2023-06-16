@@ -382,13 +382,16 @@ If this causes problems for you, you may want to try changing your terminal's co
 
 <!-- Screenshots -->
 ## :camera: Screenshots
-![asset](.github/images/img_main.jpeg)
-![asset](.github/images/img1.jpeg)
-![asset](.github/images/img2.jpeg)
-![asset](.github/images/img3.jpeg)
-![asset](.github/images/img4.jpeg)
-![asset](.github/images/img5.jpeg)
-![asset](.github/images/img6.jpeg)
+![asset]()
+<div align="center"> 
+  <img src=".github/images/img_main.jpeg" height="auto" width="40%" />
+  <img src=".github/images/img1.jpeg" height="auto" width="40%" />
+  <img src=".github/images/img2.jpeg" height="auto" width="40%" />
+  <img src=".github/images/img3.jpeg" height="auto" width="40%" />
+  <img src=".github/images/img4.jpeg" height="auto" width="40%" />
+  <img src=".github/images/img5.jpeg" height="auto" width="40%" />
+  <img src=".github/images/img6.jpeg" height="auto" width="40%" />
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
