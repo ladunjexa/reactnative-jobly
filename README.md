@@ -169,7 +169,7 @@ Job-Platform-App/
 const RAPID_API_KEY = '<INSERT_API_KEY_HERE>';
 ```
 
-![asset](.github/images/step_rapidapi.jpeg)
+![asset](.github/images/step_rapidapi.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
