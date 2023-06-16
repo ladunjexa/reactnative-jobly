@@ -382,7 +382,6 @@ If this causes problems for you, you may want to try changing your terminal's co
 
 <!-- Screenshots -->
 ## :camera: Screenshots
-![asset]()
 <div align="center"> 
   <img src=".github/images/img_main.jpeg" height="auto" width="40%" />
   <img src=".github/images/img1.jpeg" height="auto" width="40%" />
